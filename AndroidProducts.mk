@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_dumpling.mk
+    $(LOCAL_DIR)/rr_dumpling.mk
